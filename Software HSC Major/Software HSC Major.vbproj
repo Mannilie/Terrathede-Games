@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EEA2683F-7979-40D8-9E32-373D4C0F1691}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TerrathedeGames.My.MyApplication</StartupObject>
+    <RootNamespace>TerrathedeGames</RootNamespace>
+    <AssemblyName>Terrathede Games Beta Major Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Terrathede Games Beta Major Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Terrathede Games Beta Major Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>folder games.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.vb">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.vb">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTicTacToeTwoPlayer.Designer.vb">
+      <DependentUpon>FrmTicTacToeTwoPlayer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTicTacToeTwoPlayer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTicTacToeTwoPlayer.resx">
+      <DependentUpon>FrmTicTacToeTwoPlayer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hangman_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hangman_Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hangman_Background2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hangman_Background3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application_Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangman_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tic-Tac-Toe_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tic-Tac-Toe_Background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MediaPlayer_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media Player Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MediaPlayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hangman_Background4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1366x768.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1920x1080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1280x800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Highlighted1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Highlighted2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alphabet_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alphabet_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alphabet_Button_Grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chalkboard-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hang Man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_CurrentPlayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1366313307_onebit_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1366313304_onebit_34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenTick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HangMan_Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tic-Tac-Toe_Background2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olo_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Versus Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two Player Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Single Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two Players.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Single Player1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two Players1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Token.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Normal_Token.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button_Highlighted1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button_Pushed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="folder games.ico" />
+    <None Include="Resources\Gameplay.mp3" />
+    <None Include="Resources\Windows_Information.wav" />
+    <None Include="Resources\TerrathedeGames %28Mouse%29.png" />
+    <None Include="Resources\Snip.png" />
+    <None Include="Resources\TerrathedeGames %28No Mouse%29.png" />
+    <None Include="Resources\Background_TicTacToe.png" />
+    <None Include="Resources\TicTacToe_GameOver.png" />
+    <None Include="Resources\TicTacToe_PlayerTwo_Winner.png" />
+    <None Include="Resources\TicTacToe_PlayerTwo_Loser.png" />
+    <None Include="Resources\TicTacToe_PlayerOne_Winner.png" />
+    <None Include="Resources\TicTacToe_PlayerOne_Loser.png" />
+    <None Include="Resources\Selected_Box_Red.png" />
+    <None Include="Resources\Selected_Box_Green3.png" />
+    <None Include="Resources\SplashScreen26.png" />
+    <None Include="Resources\Red_Cross.png" />
+    <None Include="Resources\Green_Tick3.png" />
+    <None Include="Resources\Green_Tick11.png" />
+    <None Include="Resources\Green_Tick1.png" />
+    <None Include="Resources\Green_Tick.png" />
+    <None Include="Resources\Saving.gif" />
+    <None Include="Resources\LoadingScreen.gif" />
+    <None Include="Resources\gear.gif" />
+    <None Include="Resources\Loader2.gif" />
+    <None Include="Resources\LoadingWheel.gif" />
+    <None Include="Resources\Windows8.gif" />
+    <None Include="Resources\1370188594_Application-Default-Icon-64.png" />
+    <None Include="Resources\Loader.gif" />
+    <None Include="Resources\SplashScreen25.png" />
+    <None Include="Resources\SplashScreen24.png" />
+    <None Include="Resources\LoadingBar.gif" />
+    <None Include="Resources\Loading %283%29.gif" />
+    <None Include="Resources\preloader_transparent.gif" />
+    <None Include="Resources\windows_vista_loading____by_luthien_surion-d31802o.gif" />
+    <None Include="Resources\Red_Cross2.png" />
+    <None Include="Resources\Green_Tick2.png" />
+    <None Include="Resources\Token_Player.png" />
+    <None Include="Resources\Token_Player_X.png" />
+    <None Include="Resources\Token_Player_O.png" />
+    <None Include="Resources\Press_Start.png" />
+    <None Include="Resources\Player_Draw.png" />
+    <None Include="Resources\Player_Two_Wins.png" />
+    <None Include="Resources\Player_One_Wins.png" />
+    <None Include="Resources\Computer_Player_Wins.png" />
+    <None Include="Resources\Selected_Box_Green2.png" />
+    <None Include="Resources\Selected_Box_Green1.png" />
+    <None Include="Resources\Selected_Box_Green.png" />
+    <None Include="Resources\Normal_Token3.png" />
+    <None Include="Resources\Normal_Token2.png" />
+    <None Include="Resources\Normal_Token1.png" />
+    <None Include="Resources\Untitled-126.png" />
+    <None Include="Resources\vista_window_demo9.png" />
+    <None Include="Resources\vista_window_demo8.png" />
+    <None Include="Resources\vista_window_demo7.png" />
+    <None Include="Resources\RedCross1.png" />
+    <None Include="Resources\GreenTick2.png" />
+    <None Include="Resources\GreenTick1.png" />
+    <None Include="Resources\1366313304_onebit_341.png" />
+    <None Include="Resources\Settings_Window4.png" />
+    <None Include="Resources\GameSettings_Button_Pushed.png" />
+    <None Include="Resources\GameSettings_Button_Highlighted.png" />
+    <None Include="Resources\GameSettings_Button.png" />
+    <None Include="Resources\1368972628_Settings-Android-R.png" />
+    <None Include="Resources\vista_window_demo6.png" />
+    <None Include="Resources\Two Players2.png" />
+    <None Include="Resources\Single Player2.png" />
+    <None Include="Resources\Background 2.png" />
+    <None Include="Resources\Background3.png" />
+    <None Include="Resources\Background2.png" />
+    <None Include="Resources\Background1.png" />
+    <None Include="Resources\Background.png" />
+    <None Include="Resources\Untitled-125.png" />
+    <None Include="Resources\SplashScreen23.png" />
+    <None Include="Resources\SplashScreen22.png" />
+    <None Include="Resources\SplashScreen2.png" />
+    <None Include="Resources\TicTacToe_Form_Background3.png" />
+    <None Include="Resources\TicTacToe_Form_Background2.png" />
+    <None Include="Resources\TicTacToe_Form_Background1.png" />
+    <None Include="Resources\TicTacToe_Form_Background.png" />
+    <None Include="Resources\vista_window_demo5.png" />
+    <None Include="Resources\vista_window_demo4.png" />
+    <None Include="Resources\vista_window_demo3.png" />
+    <None Include="Resources\SplashScreen.png" />
+    <None Include="Resources\HangMan_CurrentPlayer_54.png" />
+    <None Include="Resources\HangMan_CurrentPlayer_53.png" />
+    <None Include="Resources\Tictactoe_Left_HorizontalLine.png" />
+    <None Include="Resources\TicTacToe_Right_DiagonalLine.png" />
+    <None Include="Resources\TicTacToe_Center_VerticalLine.png" />
+    <None Include="Resources\TicTacToe_Top_HorizontalLine.png" />
+    <None Include="Resources\TicTacToe_Right_VerticalLine.png" />
+    <None Include="Resources\TicTacToe_Bottom_HorizontalLine.png" />
+    <None Include="Resources\TicTacToe_Left_DiagonalLine.png" />
+    <None Include="Resources\TicTacToe_Middle_HorizontallLine.png" />
+    <None Include="Resources\TicTacToe_FormBackground1.png" />
+    <None Include="Resources\vista_window_demo2.png" />
+    <None Include="Resources\HangMan_CurrentPlayer_52.png" />
+    <None Include="Resources\HangMan_CurrentPlayer_51.png" />
+    <None Include="Resources\TicTacToe_O.png" />
+    <None Include="Resources\TicTacToe_X1.png" />
+    <None Include="Resources\TicTacToe_X.png" />
+    <None Include="Resources\TicTacToe_FormBackground.png" />
+    <None Include="Resources\anothercountdown.wav" />
+    <None Include="Resources\MinimizeButton3.png" />
+    <None Include="Resources\MinimizeButton2.png" />
+    <None Include="Resources\MinimizeButton1.png" />
+    <None Include="Resources\MinimizeButton.png" />
+    <None Include="Resources\Minimize Button.png" />
+    <None Include="Resources\Minimize_Button_Grey.png" />
+    <None Include="Resources\Minimize_Button_Disabled1.png" />
+    <None Include="Resources\Save_Button2.png" />
+    <None Include="Resources\Save_Button_Pushed.png" />
+    <None Include="Resources\Save_Button_Highlighted.png" />
+    <None Include="Resources\ReloadDefault_Button.png" />
+    <None Include="Resources\ReloadDefault_Button_Highlighted.png" />
+    <None Include="Resources\ReloadDefault_Button_Pushed.png" />
+    <None Include="Resources\Save_Button1.png" />
+    <None Include="Resources\Default_Button.png" />
+    <None Include="Resources\Save_Button.png" />
+    <None Include="Resources\Adrenaline.wav" />
+    <None Include="Resources\1366723439_Save.png" />
+    <None Include="Resources\Adrenaline.mp3" />
+    <None Include="Resources\Minimize_Button_Disabled.png" />
+    <None Include="Resources\Settings_Window3.png" />
+    <None Include="Resources\Settings_Window.png" />
+    <None Include="Resources\Settings_Window_Maroon.png" />
+    <None Include="Resources\Settings_Window_Red.png" />
+    <None Include="Resources\Settings_Window2.png" />
+    <None Include="Resources\Settings_Window1.png" />
+    <None Include="Resources\Settings_Button.png" />
+    <None Include="Resources\Settings_Button_Pushed.png" />
+    <None Include="Resources\Settings_Button_Highlighted.png" />
+    <None Include="Resources\HangMan_Wrong.png" />
+    <None Include="Resources\HangMan_Correct.png" />
+    <None Include="Resources\Mute_Button.png" />
+    <None Include="Resources\Mute_Button_Pushed.png" />
+    <None Include="Resources\Mute_Button_Highlighted.png" />
+    <None Include="Resources\UnMute_Button.png" />
+    <None Include="Resources\UnMute_Button_Highlighted.png" />
+    <None Include="Resources\UnMute_Button_Pushed.png" />
+    <None Include="Resources\Hangman_Lives31.png" />
+    <None Include="Resources\Hangman_Lives11.png" />
+    <None Include="Resources\HangMan_Draw.png" />
+    <None Include="Resources\HangMan_GameOver.png" />
+    <None Include="Resources\HangMan_Token_Player_Two.png" />
+    <None Include="Resources\HangMan_Token_Player_One.png" />
+    <None Include="Resources\No_Life.png" />
+    <None Include="Resources\Hangman_Lives5.png" />
+    <None Include="Resources\Life Icon.png" />
+    <None Include="Resources\Hangman_Lives4.png" />
+    <None Include="Resources\Hangman_Lives3.png" />
+    <None Include="Resources\Hangman_Lost_Lives.png" />
+    <None Include="Resources\Hangman_Lives2.png" />
+    <None Include="Resources\Hangman_Lives1.png" />
+    <None Include="Resources\Hangman_Lives.png" />
+    <None Include="Resources\setback.wav" />
+    <None Include="Resources\wagermatchend.wav" />
+    <None Include="Resources\wagermatchend_converted.wav" />
+    <None Include="Resources\Untitled-124.png" />
+    <None Include="Resources\Untitled-123.png" />
+    <None Include="Resources\Untitled-122.png" />
+    <None Include="Resources\Untitled-121.png" />
+    <None Include="Resources\Untitled-120.png" />
+    <None Include="Resources\Untitled-119.png" />
+    <None Include="Resources\Untitled-118.png" />
+    <None Include="Resources\Untitled-117.png" />
+    <None Include="Resources\Untitled-116.png" />
+    <None Include="Resources\Untitled-115.png" />
+    <None Include="Resources\Untitled-114.png" />
+    <None Include="Resources\Untitled-113.png" />
+    <None Include="Resources\Untitled-112.png" />
+    <None Include="Resources\Untitled-111.png" />
+    <None Include="Resources\Untitled-110.png" />
+    <None Include="Resources\Untitled-19.png" />
+    <None Include="Resources\in.wav" />
+    <None Include="Resources\exit.wav" />
+    <None Include="Resources\countdown.wav" />
+    <None Include="Resources\back.wav" />
+    <None Include="Resources\weaponselection2.wav" />
+    <None Include="Resources\weaponselect.wav" />
+    <None Include="Resources\select2.wav" />
+    <None Include="Resources\select.wav" />
+    <None Include="Resources\scrollover.wav" />
+    <None Include="Resources\rejected.wav" />
+    <None Include="Resources\1366475719_Stock Index Down.png" />
+    <None Include="Resources\Hangman_Background7.png" />
+    <None Include="Resources\Hangman_Token.png" />
+    <None Include="Resources\Hangman_One.png" />
+    <None Include="Resources\Hangman_Two.png" />
+    <None Include="Resources\Hangman_Three.png" />
+    <None Include="Resources\Hangman_Four.png" />
+    <None Include="Resources\Hangman_Five.png" />
+    <None Include="Resources\Start_Button_Highlighted.png" />
+    <None Include="Resources\Start_Button.png" />
+    <None Include="Resources\STart_Button_Pushed.png" />
+    <None Include="Resources\Survey_Button_Pushed.png" />
+    <None Include="Resources\Survey_Button_Highlighted.png" />
+    <None Include="Resources\Survey_Button1.png" />
+    <None Include="Resources\Survey_Button.png" />
+    <None Include="Resources\Hangman_Background6.png" />
+    <None Include="Resources\Hangman_Background5.png" />
+    <None Include="Resources\00000139-52a8-8d1c-3ad9-77d77287fb27.png" />
+    <None Include="Resources\Hangman_Player_Two_Winner.png" />
+    <None Include="Resources\Hangman_Player_Two_Loser.png" />
+    <None Include="Resources\Hangman_Player_One_Winner.png" />
+    <None Include="Resources\Hangman_Player_One_loser.png" />
+    <None Include="Resources\Hangman_Player_One_loser2.png" />
+    <None Include="Resources\Hangman_Player_One_loser1.png" />
+    <None Include="Resources\Close_Button_Highlighted.png" />
+    <None Include="Resources\Close_Button.png" />
+    <None Include="Resources\Close_Button_Pushed.png" />
+    <None Include="Resources\HangMan_Player_Loser2.png" />
+    <None Include="Resources\HangMan_Player_Winner.png" />
+    <None Include="Resources\Hangman_Player_Loser.png" />
+    <None Include="Resources\App Icon Template [24.png" />
+    <None Include="Resources\App Icon Template [23.png" />
+    <None Include="Resources\App Icon Template [22.png" />
+    <None Include="Resources\App Icon Template [21.png" />
+    <None Include="Resources\App Icon Template [2.png" />
+    <None Include="Resources\Transparent Game Window1.png" />
+    <None Include="Resources\Transparent Game Window.png" />
+    <None Include="Resources\Return_Button_Pushed.png" />
+    <None Include="Resources\Return_Button.png" />
+    <None Include="Resources\Return_Button_Highlighted.png" />
+    <None Include="Resources\Exit_Button_Highlighted.png" />
+    <None Include="Resources\Exit_Button.png" />
+    <None Include="Resources\Exit_Button_Pushed.png" />
+    <None Include="Resources\Return_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

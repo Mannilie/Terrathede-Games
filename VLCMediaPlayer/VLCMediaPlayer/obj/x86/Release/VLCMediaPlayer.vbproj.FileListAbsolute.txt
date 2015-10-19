@@ -1,0 +1,36 @@
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmMainMediaPlayer.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmMaximized.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmFullScreen.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmPlayPause.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.pdb
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\Interop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\AxInterop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.vbproj.ResolveComReference.cache
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.exe
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.xml
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.pdb
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.exe
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.pdb
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\VLCMediaPlayer.xml
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\Interop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Release\AxInterop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmMainMediaPlayer.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmMaximized.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmFullScreen.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.frmPlayPause.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Release\VLCMediaPlayer.vbproj.GenerateResource.Cache

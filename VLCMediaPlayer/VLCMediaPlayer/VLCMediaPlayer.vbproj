@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{112DE207-515C-49D2-B60B-D00783BE5DFB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>VLCMediaPlayer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VLCMediaPlayer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VLCMediaPlayer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1366978039_9408.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\psd-gold-coin-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1280x800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1366x768.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1920x1080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bar Layout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bar Layout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize_Button_Pushed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slick_videoplayer_ui.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vista_window_demo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxAXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plau_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button_Normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Button3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen_Button_Highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen_Button_Highlighted1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Fullscreen_Button_highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Fullscreen_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\select.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rejected.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1366978039_9408.ico" />
+    <None Include="Resources\LoadingScreen.gif" />
+    <None Include="Resources\LoadingGif1.gif" />
+    <None Include="Resources\LoadingGif.gif" />
+    <None Include="Resources\Resolution_1920x1080_2.png" />
+    <None Include="Resources\Resolution_1366x768_2.png" />
+    <None Include="Resources\Resolution_1280x800_2.png" />
+    <None Include="Resources\68x381.png" />
+    <None Include="Resources\Untitled-11.png" />
+    <None Include="Resources\68x38.png" />
+    <None Include="Resources\Shuffle.png" />
+    <None Include="Resources\VLCBackground.png" />
+    <None Include="Resources\Background2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

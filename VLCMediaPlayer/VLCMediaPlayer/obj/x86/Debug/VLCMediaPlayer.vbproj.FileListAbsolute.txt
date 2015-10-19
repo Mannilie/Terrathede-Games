@@ -1,0 +1,112 @@
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Documents\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mannilie\Desktop\BACKUP!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMainMediaPlayer.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMainMediaPlayer.resources
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMainMediaPlayer.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup!\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMainMediaPlayer.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mannilie\Desktop\Desktop Backup Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.ResolveComReference.cache
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.exe
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.xml
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.pdb
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.exe
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.pdb
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\VLCMediaPlayer.xml
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMainMediaPlayer.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmMaximized.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmFullScreen.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.frmPlayPause.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Projects\Terrathede Games Project Folder\VLCMediaPlayer\VLCMediaPlayer\obj\x86\Debug\VLCMediaPlayer.vbproj.GenerateResource.Cache

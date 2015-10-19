@@ -1,0 +1,588 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TerrathedeGamesBetaMajorProject
+</name>
+</assembly>
+<members>
+<member name="P:TerrathedeGames.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Adrenaline">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.anothercountdown">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Application_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background_SinglePlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background_TicTacToe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background_TwoPlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background_Versus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Background3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Close_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Close_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Close_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Computer_Player_Wins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Gameplay">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.GameSettings_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.GameSettings_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.GameSettings_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Gold_Token">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Green_Tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Correct">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_52">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_53">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_54">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_CurrentPlayer_9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Draw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Five">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Four">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_GameOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Lives5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_One">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Player_9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Player_One_loser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Player_One_Winner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Player_Two_Loser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Player_Two_Winner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Three">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Token">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Token_Player_One">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Token_Player_Two">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Hangman_Two">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.HangMan_Wrong">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Info_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Info_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Info_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.LifeIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Loader">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.LoadingScreen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Maximize_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Maximize_Button_Disabled">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Maximize_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Maximize_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.MediaPlayer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Minimize_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Minimize_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Minimize_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.MinimizeButton3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Mute_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Mute_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Mute_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.No_Life">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.No_Token">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Player_Draw">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Player_One_Wins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Player_Two_Wins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Press_Start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Red_Arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Red_Cross">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Return_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Return_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Return_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Selected_Box_Green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Selected_Box_Red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Settings_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Settings_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Settings_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Settings_Window">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Settings_Window1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Single_Player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Snip">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_countdown">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_FormClosing">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_FormMinimizing">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_FormOpening">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_FormReturning">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_FormSelect">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_in">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_MouseScrollover">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_rejected">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_select2">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.sound_setback">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.SplashScreen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Start_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Start_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Start_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TerrathedeGamesMenu_Captions">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TerrathedeGamesMenu_NoCaptions">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_Board">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_FormBackground">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_GameOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_O">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_PlayerOne_Loser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_PlayerOne_Winner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_PlayerTwo_Loser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_PlayerTwo_Winner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.TicTacToe_X1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Token_Player">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Two_Players">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.UnMute_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.UnMute_Button_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.UnMute_Button_Pushed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.wagermatchend">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.wagermatchend_converted">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TerrathedeGames.My.Resources.Resources.Windows_Information">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:TerrathedeGames.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
